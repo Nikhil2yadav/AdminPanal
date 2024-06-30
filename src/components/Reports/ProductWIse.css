@@ -1,0 +1,14 @@
+#table{
+    width: 100%;
+}
+#myChart{
+    width: 100%;
+}
+#text label {
+    padding: 5px;
+}
+#text select{
+    margin: 5px;
+    width: 80px;
+    border-radius: 5px;
+}

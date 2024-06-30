@@ -1,0 +1,58 @@
+#product{
+
+}
+#date{  
+    float: right; 
+    /* clear: left; */
+
+}
+#myboxsamout{
+float: right;
+}
+#lblgross{
+    position: relative;
+    right: 20px;
+}
+#lbldiscount{
+    position: relative;
+    right: 20px;
+}
+#discount{
+    position: relative;
+    left: 40px;
+    width: 250px;
+    height: 40px;
+}
+#gross_amount{
+    width: 250px;
+    height: 40px;
+}
+#lblnet_amount{
+    position: relative;
+    right: 20px;
+}
+#net_amount{
+    width: 250px;
+    height: 40px;
+    position: relative;
+    left: 18px;
+}
+ #myselect{
+    margin: 10px;
+    width: 400px;
+    height: 40px;
+    position: relative;
+    left: 50px;
+} 
+#Myproduct{
+    width: 50%;
+}
+#Myqty{
+    width: 10% ;
+}
+#MyRate{
+    width: 10%;
+}
+#MyAmount{
+    width: 20%;
+}

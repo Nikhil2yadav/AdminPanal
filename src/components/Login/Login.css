@@ -1,0 +1,47 @@
+
+#btn{
+    padding-top: 10px;
+    text-align: right;
+}
+#btn-admin{
+    text-align: center;
+}
+
+.cardbody{
+    padding: 10px;
+    border: 1px solid white;
+    
+}
+.mycheckbox{
+    position: relative;
+    right: 130px;
+    top: 12px;
+}
+.iconlock {
+    position: absolute;
+    right: 15px;
+    top: 105px;
+    background: none;
+  }
+.iconemail{
+    position: absolute;
+    right: 15px;
+    top: 55px;
+    background: none;
+}  
+  .cardbody {
+    position: relative;
+    
+  }
+  
+  #btn-admin {
+    margin-top: 20px;
+    text-align: center;
+  }
+  #mycontainer{
+    margin-top: 50px;
+    
+  }
+  #main-conatiner{
+    background-color: aquamarine;
+  }

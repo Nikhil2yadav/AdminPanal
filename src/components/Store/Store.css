@@ -1,0 +1,37 @@
+
+
+  
+.toastifyconatiner{
+    width: 700px;
+    position: relative;
+    background-color: green;
+    color: #ffffff;
+    right: 400px;
+    top: 100px;
+  }
+  #adduser{
+    margin: 10px;
+}
+
+  .table tbody tr:nth-child(even) {
+    background-color: #f9f9f9c8; /* White background color for even rows */
+  }
+  
+  /* Search bar styles */
+  #txtsearch {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: right;
+  }
+  
+  /* Pagination button styles */
+  #btnofnext  {
+    float: right;
+  }
+  
+  /* Button styles */
+  .btn {
+    cursor: pointer;
+  }
+  
+  

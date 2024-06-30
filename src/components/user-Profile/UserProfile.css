@@ -1,0 +1,24 @@
+
+.table {
+    width: 100%;
+  }
+  
+  .table td {
+     /* Remove default table borders */
+    padding: 10px; /* Add padding for spacing */
+  }
+  
+  .table td:first-child {
+    width: 50%; /* Set width for label column */
+    font-weight: bold; /* Make labels bold */
+  }
+  
+  /* Add a border-right to the first td in each tr, except the last one */
+  .table tr td:first-child:not(:last-child) {
+    border-right: 1px solid #ccc; /* Add a vertical line */
+  }
+  #card{
+    border:black 1px solid;
+    opacity: 0.7;
+    padding: 10px;
+  }
